@@ -6,7 +6,7 @@ import java.sql.SQLException;
 import javax.swing.JOptionPane;
 
 public class DatabaseConnection {
-    private static final String URL = "jdbc:mysql://localhost:3306/nahor_abakar_projet_java_carte_grise";
+    private static final String URL = "jdbc:mysql://localhost:xxxx/xxx_xxx_xxx_xxx_xxx_xxx";
     private static final String USER = "root"; // Remplacer par votre utilisateur MySQL
     private static final String PASSWORD = "root"; // Remplacer par votre mot de passe MySQL
 
